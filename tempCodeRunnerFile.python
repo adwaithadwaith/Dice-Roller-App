@@ -1,0 +1,20 @@
+# alph ="abcdefghijklmnopqrstuvwxyz"
+# str ="abcdefg"
+# res = 0
+# if len(str)<6 :
+#     for i in str :
+#         for l,j in enumerate(alph) :
+#             if j == i :
+#                 res +=(l+1) 
+# elif len(str)>=6 :
+
+# str1="hel"
+# numlist=[]
+# for i in str1:
+#     numlist.append(ord(i)-96)
+# numlist.sort()
+# print(numlist)
+# c=0
+# sumNum=sum(numlist[:6])
+# print(sumNum)
+print(chr(97))
